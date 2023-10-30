@@ -1,0 +1,162 @@
+@import url(https://db.onlinewebfonts.com/c/2b14c4af7eed1da24d165d25bd867625?family=Kratos+TrueType+-+GOD++WAR);
+
+@font-face {
+  font-family: "Kratos TrueType - GOD WAR";
+  src: url("https://db.onlinewebfonts.com/t/2b14c4af7eed1da24d165d25bd867625.eot");
+  src: url("https://db.onlinewebfonts.com/t/2b14c4af7eed1da24d165d25bd867625.eot?#iefix")format("embedded-opentype"),
+  url("https://db.onlinewebfonts.com/t/2b14c4af7eed1da24d165d25bd867625.woff2")format("woff2"),
+  url("https://db.onlinewebfonts.com/t/2b14c4af7eed1da24d165d25bd867625.woff")format("woff"),
+  url("https://db.onlinewebfonts.com/t/2b14c4af7eed1da24d165d25bd867625.ttf")format("truetype"),
+  url("https://db.onlinewebfonts.com/t/2b14c4af7eed1da24d165d25bd867625.svg#Kratos TrueType - GOD  WAR")format("svg");
+}
+
+body {
+  font-family: "Kratos TrueType - GOD WAR";
+  background-image: url(./pagina\ gow.jpg);
+  background-size: cover;
+  background-attachment: fixed;
+}
+#fuente {
+  color: red;
+}
+#RESUMEN {
+  color: darkred;
+}
+#t {
+  color: lightseagreen
+}
+#HistoriadeKratos {
+  color: black
+}
+#te {
+  color: darkgrey
+}
+#tex {
+  color: darkgrey
+}
+#text {
+  color: darkgrey
+}
+#texto {
+  color: darkgrey
+}
+#textod {
+  color: darkgrey
+}
+#textode {
+  color: darkgrey
+}
+#textodek {
+  color: darkgrey
+}
+#textodekr {
+  color: darkgrey
+}
+#textodekra {
+  color: darkgrey
+}
+#textodekrat {
+  color: darkgrey
+}
+#textodekrato {
+  color: darkgrey
+}
+#textodekratos {
+  color: darkgrey
+}
+#textodekratosg {
+  color: darkgrey
+}
+#textodekratosgo {
+  color: darkgrey
+}
+#textodekratosgod {
+  color: darkgrey
+}
+#textodekratosgodo {
+  color: darkgrey
+}
+#textodekratosgodof {
+  color: darkgrey
+}
+#textodekratosgodofw {
+  color: darkgrey
+}
+#textodekratosgodofwa {
+  color: darkgrey
+}
+#textodekratosgodofwar {
+  color: darkgrey
+}
+#DIOSESDELOLIMPO {
+  color: yellow
+}
+#elolimpo {
+  color: white
+}
+#lashermanasdeldestino {
+  color: lightblue;
+}
+#destino {
+  color: lightgreen;
+}
+#lasfurias {
+  color: lightyellow;
+}
+#furia {
+  color: lightslategrey;
+}
+#Deimos {
+  color: orange;
+}
+#Hermandad {
+  color: orangered;
+}
+#Atreus {
+  color: lightseagreen;
+}
+#Loki {
+  color: blue;
+}
+#soundtrack {
+  color: lightslategray;
+}
+#SGOWA {
+  color: black;
+}
+#SGOWCOO {
+  color: lightgray;
+}
+#SGOW1 {
+  color: firebrick;
+}
+#SGOWb {
+  color: yellow;
+}
+#SGOWGOS {
+  color: orange;
+}
+#SGOW2 {
+  color: orangered;
+}
+#SGOW3 {
+  color: red;
+}
+#SGOW4 {
+  color: darkred;
+}
+#SGOWR {
+  color: darkblue;
+}
+#Cronologia {
+  color: white;
+}
+#cronologic {
+  color: darkred;
+}
+#redsocial {
+  color: blue;
+}
+#piedepagina {
+  color: whitesmoke;
+}
